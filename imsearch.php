@@ -1,0 +1,825 @@
+<?php require_once("res/x5engine.php"); ?>
+<!DOCTYPE html><!-- HTML5 -->
+<html prefix="og: http://ogp.me/ns#" lang="it-IT" dir="ltr">
+	<head>
+		<title>Ricerca - https://www.abave.netsons.org</title>
+		<meta charset="utf-8" />
+		<!--[if IE]><meta http-equiv="ImageToolbar" content="False" /><![endif]-->
+		<meta name="author" content="danilo ciaramaglia" />
+		<meta name="generator" content="Incomedia WebSite X5 Evo 2025.1.7 - www.websitex5.com" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		
+		<link rel="stylesheet" href="style/reset.css?2025-1-7-0" media="screen,print" />
+		<link rel="stylesheet" href="style/print.css?2025-1-7-0" media="print" />
+		<link rel="stylesheet" href="style/style.css?2025-1-7-0" media="screen,print" />
+		<link rel="stylesheet" href="style/template.css?2025-1-7-0" media="screen" />
+		
+		<style>
+#google_translate_element{
+overflow: auto;
+}
+.goog-te-menu-frame {
+max-width:100% !important;
+box-shadow: none !important;
+}
+</style>
+<style id='gt-style'></style>
+		<link rel="stylesheet" href="pcss/imsearch.css?2025-1-7-0-639050374120111171" media="screen,print" />
+		<script src="res/jquery.js?2025-1-7-0"></script>
+		<script src="res/x5engine.js?2025-1-7-0" data-files-version="2025-1-7-0"></script>
+		<script>
+			window.onload = function(){ checkBrowserCompatibility('Il Browser che stai utilizzando non supporta le funzionalità richieste per visualizzare questo Sito.','Il Browser che stai utilizzando potrebbe non supportare le funzionalità richieste per visualizzare questo Sito.','[1]Aggiorna il tuo browser[/1] oppure [2]procedi ugualmente[/2].','http://outdatedbrowser.com/'); };
+			x5engine.utils.currentPagePath = 'imsearch.php';
+		</script>
+		
+		<meta http-equiv="Expires" content="0" />
+		<meta name="Resource-Type" content="document" />
+		<meta name="Distribution" content="global" />
+		<meta name="Robots" content="index, follow" />
+		<meta name="Revisit-After" content="21 days" />
+		<meta name="Rating" content="general" />
+	</head>
+	<body>
+		<div id="imPageExtContainer">
+			<div id="imPageIntContainer">
+				<a class="screen-reader-only-even-focused" href="#imGoToCont" title="Salta il menu di navigazione">Vai ai contenuti</a>
+				<div id="imHeaderBg"></div>
+				<div id="imPage">
+					<header id="imHeader">
+						<h1 class="imHidden">Ricerca - https://www.abave.netsons.org</h1>
+						<div id="imHeaderObjects"><div id="imHeader_imMenuObject_01_wrapper" class="template-object-wrapper"><!-- UNSEARCHABLE --><a id="imHeader_imMenuObject_01_skip_menu" href="#imHeader_imMenuObject_01_after_menu" class="screen-reader-only-even-focused">Salta menù</a><div id="imHeader_imMenuObject_01"><nav id="imHeader_imMenuObject_01_container"><button type="button" class="clear-button-style hamburger-button hamburger-component" aria-label="Mostra menù"><span class="hamburger-bar"></span><span class="hamburger-bar"></span><span class="hamburger-bar"></span></button><div class="hamburger-menu-background-container hamburger-component">
+	<div class="hamburger-menu-background menu-mobile menu-mobile-animated hidden">
+		<button type="button" class="clear-button-style hamburger-menu-close-button" aria-label="Chiudi"><span aria-hidden="true">&times;</span></button>
+	</div>
+</div>
+<ul class="menu-mobile-animated hidden">
+	<li class="imMnMnFirst imPage" data-link-paths=",/index.html,/">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="index.html">
+Home Page		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/tavole-preparatorie--progetti-.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="tavole-preparatorie--progetti-.html">
+Tavole preparatorie (progetti)		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">Prototipi</span><button type="button" class="screen-reader-only clear-button-style toggle-submenu" aria-label="Mostra sottomenù di Prototipi" aria-expanded="false" onclick="if ($(this).attr('aria-expanded') == 'true') event.stopImmediatePropagation(); $(this).closest('.imLevel').trigger(jQuery.Event($(this).attr('aria-expanded') == 'false' ? 'mouseenter' : 'mouseleave', { originalEvent: event } ));">▼</button></div></div><ul data-original-position="open-bottom" class="open-bottom" style="" >
+	<li class="imMnMnFirst imPage" data-link-paths=",/prototipi-in-cera-e-altri-materiali-1.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="prototipi-in-cera-e-altri-materiali-1.html">
+Prototipi in cera e altri materiali 1		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/prototipi-in-cera-e-altri-materiali-2.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="prototipi-in-cera-e-altri-materiali-2.html">
+Prototipi in cera e altri materiali 2		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/prototipi-in-cera-e-altri-materiali-3.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="prototipi-in-cera-e-altri-materiali-3.html">
+Prototipi in cera e altri materiali 3		</a>
+</div>
+</div>
+	</li></ul></li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">Formatura, progetti, ambientazioni</span><button type="button" class="screen-reader-only clear-button-style toggle-submenu" aria-label="Mostra sottomenù di Formatura, progetti, ambientazioni" aria-expanded="false" onclick="if ($(this).attr('aria-expanded') == 'true') event.stopImmediatePropagation(); $(this).closest('.imLevel').trigger(jQuery.Event($(this).attr('aria-expanded') == 'false' ? 'mouseenter' : 'mouseleave', { originalEvent: event } ));">▼</button></div></div><ul data-original-position="open-bottom" class="open-bottom" style="" >
+	<li class="imMnMnFirst imPage" data-link-paths="|/formatura,-progetti.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="formatura,-progetti.html">
+Formatura, progetti		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths="|/ambientazioni,-formatura,-progetti.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="ambientazioni,-formatura,-progetti.html">
+Ambientazioni, formatura, progetti		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/progetti.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="progetti.html">
+Progetti		</a>
+</div>
+</div>
+	</li></ul></li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">Avvisi studenti</span><button type="button" class="screen-reader-only clear-button-style toggle-submenu" aria-label="Mostra sottomenù di Avvisi studenti" aria-expanded="false" onclick="if ($(this).attr('aria-expanded') == 'true') event.stopImmediatePropagation(); $(this).closest('.imLevel').trigger(jQuery.Event($(this).attr('aria-expanded') == 'false' ? 'mouseenter' : 'mouseleave', { originalEvent: event } ));">▼</button></div></div><ul data-original-position="open-bottom" class="open-bottom" style="" >
+	<li class="imMnMnFirst imPage" data-link-paths="|/presentazione,-preiscrizione-e-iscrizione-ai-corsi.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="presentazione,-preiscrizione-e-iscrizione-ai-corsi.html">
+Presentazione, preiscrizione e iscrizione ai Corsi		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths="|/programma-di-linguaggi-plastici-per-le-arti-visive,-triennio-e-biennio.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="programma-di-linguaggi-plastici-per-le-arti-visive,-triennio-e-biennio.html">
+Programma di Linguaggi plastici per le arti visive, triennio e biennio		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths="|/programma-di-tecniche-plastiche-contemporanee,-triennio.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="programma-di-tecniche-plastiche-contemporanee,-triennio.html">
+Programma di Tecniche plastiche contemporanee, triennio		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths="|/programma-di-tecniche-plastiche-contemporanee,-biennio.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="programma-di-tecniche-plastiche-contemporanee,-biennio.html">
+Programma di Tecniche plastiche contemporanee, biennio		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths="|/corredo,-etichetta-cartella,-frontespizio-tesina.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="corredo,-etichetta-cartella,-frontespizio-tesina.html">
+Corredo, etichetta cartella, frontespizio tesina		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/redazione-tesi-ed-esempi-di-tesine-.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="redazione-tesi-ed-esempi-di-tesine-.html">
+Redazione Tesi ed esempi di tesine 		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/orario-delle-lezioni.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="orario-delle-lezioni.html">
+Orario delle lezioni		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/didattica-online.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="didattica-online.html">
+Didattica online		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/il-laboratorio-del-corso-di-plastica-ornamentale.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="il-laboratorio-del-corso-di-plastica-ornamentale.html">
+Il laboratorio del Corso di Plastica ornamentale		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/alcune-lettere-di-referenze.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="alcune-lettere-di-referenze.html">
+Alcune lettere di referenze		</a>
+</div>
+</div>
+	</li></ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/cenni-storici-.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="cenni-storici-.html">
+Cenni storici 		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/a-stefano.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="a-stefano.html">
+A Stefano		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/a-lisa.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="a-lisa.html">
+A Lisa		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/contatti.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="contatti.html">
+Contatti		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths="|/copyright,-privacy,-cookies-policy.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="copyright,-privacy,-cookies-policy.html">
+Copyright, privacy, cookies policy		</a>
+</div>
+</div>
+	</li></ul></nav></div><a id="imHeader_imMenuObject_01_after_menu" class="screen-reader-only-even-focused"></a><!-- UNSEARCHABLE END --><script>
+var imHeader_imMenuObject_01_settings = {
+	'menuId': 'imHeader_imMenuObject_01',
+	'responsiveMenuEffect': 'slide',
+	'responsiveMenuLevelOpenEvent': 'mouseover',
+	'animationDuration': 1000,
+}
+x5engine.boot.push(function(){x5engine.initMenu(imHeader_imMenuObject_01_settings)});
+$(function () {
+    $('#imHeader_imMenuObject_01_container ul li').not('.imMnMnSeparator').each(function () {
+        $(this).on('mouseenter', function (evt) {
+            if (!evt.originalEvent) {
+                evt.stopImmediatePropagation();
+                evt.preventDefault();
+                return;
+            }
+        });
+    });
+});
+$(function () {$('#imHeader_imMenuObject_01_container ul li').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0;    $this.on('mouseenter', function () {        clearTimeout(timeout);        setTimeout(function () { $this.children('ul, .multiple-column').stop(false, false).show(); }, 250);    }).on('mouseleave', function () {        timeout = setTimeout(function () { $this.children('ul, .multiple-column').stop(false, false).hide(); }, 250);    });});});
+
+</script>
+</div><div id="imHeader_imMenuObject_02_wrapper" class="template-object-wrapper"><!-- UNSEARCHABLE --><a id="imHeader_imMenuObject_02_skip_menu" href="#imHeader_imMenuObject_02_after_menu" class="screen-reader-only-even-focused">Salta menù</a><div id="imHeader_imMenuObject_02"><nav id="imHeader_imMenuObject_02_container"><button type="button" class="clear-button-style hamburger-button hamburger-component" aria-label="Mostra menù"><span class="hamburger-bar"></span><span class="hamburger-bar"></span><span class="hamburger-bar"></span></button><div class="hamburger-menu-background-container hamburger-component">
+	<div class="hamburger-menu-background menu-mobile menu-mobile-animated hidden">
+		<button type="button" class="clear-button-style hamburger-menu-close-button" aria-label="Chiudi"><span aria-hidden="true">&times;</span></button>
+	</div>
+</div>
+<ul class="menu-mobile-animated hidden">
+	<li class="imMnMnFirst imPage" data-link-paths=",/index.html,/">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="index.html">
+Home Page		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/tavole-preparatorie--progetti-.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="tavole-preparatorie--progetti-.html">
+Tavole preparatorie (progetti)		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">Prototipi</span><button type="button" class="screen-reader-only clear-button-style toggle-submenu" aria-label="Mostra sottomenù di Prototipi" aria-expanded="false" onclick="if ($(this).attr('aria-expanded') == 'true') event.stopImmediatePropagation(); $(this).closest('.imLevel').trigger(jQuery.Event($(this).attr('aria-expanded') == 'false' ? 'mouseenter' : 'mouseleave', { originalEvent: event } ));">▼</button></div></div><ul data-original-position="open-bottom" class="open-bottom" style="" >
+	<li class="imMnMnFirst imPage" data-link-paths=",/prototipi-in-cera-e-altri-materiali-1.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="prototipi-in-cera-e-altri-materiali-1.html">
+Prototipi in cera e altri materiali 1		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/prototipi-in-cera-e-altri-materiali-2.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="prototipi-in-cera-e-altri-materiali-2.html">
+Prototipi in cera e altri materiali 2		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/prototipi-in-cera-e-altri-materiali-3.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="prototipi-in-cera-e-altri-materiali-3.html">
+Prototipi in cera e altri materiali 3		</a>
+</div>
+</div>
+	</li></ul></li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">Formatura, progetti, ambientazioni</span><button type="button" class="screen-reader-only clear-button-style toggle-submenu" aria-label="Mostra sottomenù di Formatura, progetti, ambientazioni" aria-expanded="false" onclick="if ($(this).attr('aria-expanded') == 'true') event.stopImmediatePropagation(); $(this).closest('.imLevel').trigger(jQuery.Event($(this).attr('aria-expanded') == 'false' ? 'mouseenter' : 'mouseleave', { originalEvent: event } ));">▼</button></div></div><ul data-original-position="open-bottom" class="open-bottom" style="" >
+	<li class="imMnMnFirst imPage" data-link-paths="|/formatura,-progetti.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="formatura,-progetti.html">
+Formatura, progetti		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths="|/ambientazioni,-formatura,-progetti.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="ambientazioni,-formatura,-progetti.html">
+Ambientazioni, formatura, progetti		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/progetti.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="progetti.html">
+Progetti		</a>
+</div>
+</div>
+	</li></ul></li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">Avvisi studenti</span><button type="button" class="screen-reader-only clear-button-style toggle-submenu" aria-label="Mostra sottomenù di Avvisi studenti" aria-expanded="false" onclick="if ($(this).attr('aria-expanded') == 'true') event.stopImmediatePropagation(); $(this).closest('.imLevel').trigger(jQuery.Event($(this).attr('aria-expanded') == 'false' ? 'mouseenter' : 'mouseleave', { originalEvent: event } ));">▼</button></div></div><ul data-original-position="open-bottom" class="open-bottom" style="" >
+	<li class="imMnMnFirst imPage" data-link-paths="|/presentazione,-preiscrizione-e-iscrizione-ai-corsi.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="presentazione,-preiscrizione-e-iscrizione-ai-corsi.html">
+Presentazione, preiscrizione e iscrizione ai Corsi		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths="|/programma-di-linguaggi-plastici-per-le-arti-visive,-triennio-e-biennio.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="programma-di-linguaggi-plastici-per-le-arti-visive,-triennio-e-biennio.html">
+Programma di Linguaggi plastici per le arti visive, triennio e biennio		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths="|/programma-di-tecniche-plastiche-contemporanee,-triennio.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="programma-di-tecniche-plastiche-contemporanee,-triennio.html">
+Programma di Tecniche plastiche contemporanee, triennio		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths="|/programma-di-tecniche-plastiche-contemporanee,-biennio.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="programma-di-tecniche-plastiche-contemporanee,-biennio.html">
+Programma di Tecniche plastiche contemporanee, biennio		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths="|/corredo,-etichetta-cartella,-frontespizio-tesina.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="corredo,-etichetta-cartella,-frontespizio-tesina.html">
+Corredo, etichetta cartella, frontespizio tesina		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/redazione-tesi-ed-esempi-di-tesine-.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="redazione-tesi-ed-esempi-di-tesine-.html">
+Redazione Tesi ed esempi di tesine 		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/orario-delle-lezioni.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="orario-delle-lezioni.html">
+Orario delle lezioni		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/didattica-online.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="didattica-online.html">
+Didattica online		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/il-laboratorio-del-corso-di-plastica-ornamentale.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="il-laboratorio-del-corso-di-plastica-ornamentale.html">
+Il laboratorio del Corso di Plastica ornamentale		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/alcune-lettere-di-referenze.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="alcune-lettere-di-referenze.html">
+Alcune lettere di referenze		</a>
+</div>
+</div>
+	</li></ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/cenni-storici-.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="cenni-storici-.html">
+Cenni storici 		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/a-stefano.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="a-stefano.html">
+A Stefano		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/a-lisa.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="a-lisa.html">
+A Lisa		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/contatti.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="contatti.html">
+Contatti		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths="|/copyright,-privacy,-cookies-policy.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="copyright,-privacy,-cookies-policy.html">
+Copyright, privacy, cookies policy		</a>
+</div>
+</div>
+	</li></ul></nav></div><a id="imHeader_imMenuObject_02_after_menu" class="screen-reader-only-even-focused"></a><!-- UNSEARCHABLE END --><script>
+var imHeader_imMenuObject_02_settings = {
+	'menuId': 'imHeader_imMenuObject_02',
+	'responsiveMenuEffect': 'slide',
+	'responsiveMenuLevelOpenEvent': 'mouseover',
+	'animationDuration': 1000,
+}
+x5engine.boot.push(function(){x5engine.initMenu(imHeader_imMenuObject_02_settings)});
+$(function () {
+    $('#imHeader_imMenuObject_02_container ul li').not('.imMnMnSeparator').each(function () {
+        $(this).on('mouseenter', function (evt) {
+            if (!evt.originalEvent) {
+                evt.stopImmediatePropagation();
+                evt.preventDefault();
+                return;
+            }
+        });
+    });
+});
+$(function () {$('#imHeader_imMenuObject_02_container ul li').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0;    $this.on('mouseenter', function () {        clearTimeout(timeout);        setTimeout(function () { $this.children('ul, .multiple-column').stop(false, false).show(); }, 250);    }).on('mouseleave', function () {        timeout = setTimeout(function () { $this.children('ul, .multiple-column').stop(false, false).hide(); }, 250);    });});});
+
+</script>
+</div><div id="imHeader_imTextObject_07_wrapper" class="template-object-wrapper"><div id="imHeader_imTextObject_07">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imHeader_imTextObject_07_tab0" style="opacity: 1; " role="tabpanel" tabindex="0">
+		<div class="text-inner">
+			<div><blockquote><span class="fs10lh1-5 ff1">AREA 1 DIPARTIMENTO DI ARTI VISIVE</span></blockquote><blockquote><span class="fs10lh1-5 ff1">Scuola di Decorazione</span></blockquote><blockquote><span class="fs10lh1-5 ff1"><b>Settore artistico-disciplinare (SAD)</b></span></blockquote><blockquote><span style="font-weight: 700;" class="fs10lh1-5 ff1">Linguaggi plastici per le arti visive</span></blockquote></div><div><blockquote><span class="fs10lh1-5 ff1">Profili disciplinari: Linguaggi plastici per le arti visive 8 CFU</span></blockquote><blockquote><span class="fs10lh1-5 ff1">Tecniche plastiche contemporanee 8 CFU</span></blockquote><blockquote><span class="fs10lh1-5 ff1">Triennio e Biennio specialistico</span></blockquote><blockquote><span class="fs10lh1-5 ff1 cb1">Codice SAD: AFAM112</span><br></blockquote></div><div><blockquote><span class="fs10lh1-5 ff1">Professore Ordinario: Danilo Ciaramaglia</span></blockquote></div><div><span class="fs10lh1-5 ff1"><span class="cf1"> &nbsp;&nbsp;</span><span class="cf1"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></div><div><span class="fs11lh1-5 cf1 ff1"></span><span class="fs11lh1-5 cf1 ff1"></span><span class="fs11lh1-5 cf1 ff1"> &nbsp;</span><span class="fs10lh1-5 cf1 ff1"> &nbsp;</span><span class="cf1"><span class="fs11lh1-5 ff1"> &nbsp;&nbsp;</span><span class="fs12lh1-5 ff1"> </span></span><span class="fs12lh1-5 cf1 ff1"> </span><span class="fs12lh1-5 cf1 ff1"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="fs10lh1-5 cf1 ff1"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+		</div>
+	</div>
+
+</div>
+</div><div id="imHeader_imTextObject_11_wrapper" class="template-object-wrapper"><div id="imHeader_imTextObject_11">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imHeader_imTextObject_11_tab0" style="opacity: 1; " role="tabpanel" tabindex="0">
+		<div class="text-inner">
+			<div><span class="fs9lh1-5 cf1 ff1"><a href="https://www.mur.gov.it/it/aree-tematiche/afam" target="_blank" class="imCssLink">Ministero dell'Università e della Ricerca</a></span></div><div><div><span class="fs9lh1-5 cf1 ff1"><a href="https://www.mur.gov.it/it/aree-tematiche/afam" target="_blank" class="imCssLink">Alta Formazione Artistica, Musicale e coreutica</a></span></div></div>
+		</div>
+	</div>
+
+</div>
+</div><div id="imHeader_imObjectImage_14_wrapper" class="template-object-wrapper"><div id="imHeader_imObjectImage_14"><div id="imHeader_imObjectImage_14_container"><img src="images/logo.svg"  width="246" height="90" /></div></div></div><div id="imHeader_imTextObject_16_wrapper" class="template-object-wrapper"><div id="imHeader_imTextObject_16">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imHeader_imTextObject_16_tab0" style="opacity: 1; " role="tabpanel" tabindex="0">
+		<div class="text-inner">
+			<div><span class="fs8lh1-5 ff1"><a href="https://www.mur.gov.it/it/aree-tematiche/afam" target="_blank" class="imCssLink">Ministero dell' Università e della Ricerca</a></span></div><div><span class="fs8lh1-5 ff1"><a href="https://www.mur.gov.it/it/aree-tematiche/afam" target="_blank" class="imCssLink">Alta Formazione Artistica e Musicale, AFAM</a></span></div>
+		</div>
+	</div>
+
+</div>
+</div><div id="imHeader_imObjectImage_17_wrapper" class="template-object-wrapper"><div id="imHeader_imObjectImage_17"><div id="imHeader_imObjectImage_17_container"><a href="https://www.accademiavenezia.it" target="_blank"><img src="images/logo.svg"  width="246" height="90" /></a></div></div></div></div>
+					</header>
+					<div id="imStickyBarContainer">
+						<div id="imStickyBarGraphics"></div>
+						<div id="imStickyBar">
+							<div id="imStickyBarObjects"><div id="imStickyBar_imMenuObject_01_wrapper" class="template-object-wrapper"><!-- UNSEARCHABLE --><a id="imStickyBar_imMenuObject_01_skip_menu" href="#imStickyBar_imMenuObject_01_after_menu" class="screen-reader-only-even-focused">Salta menù</a><div id="imStickyBar_imMenuObject_01"><nav id="imStickyBar_imMenuObject_01_container"><button type="button" class="clear-button-style hamburger-button hamburger-component" aria-label="Mostra menù"><span class="hamburger-bar"></span><span class="hamburger-bar"></span><span class="hamburger-bar"></span></button><div class="hamburger-menu-background-container hamburger-component">
+	<div class="hamburger-menu-background menu-mobile menu-mobile-animated hidden">
+		<button type="button" class="clear-button-style hamburger-menu-close-button" aria-label="Chiudi"><span aria-hidden="true">&times;</span></button>
+	</div>
+</div>
+<ul class="menu-mobile-animated hidden">
+	<li class="imMnMnFirst imPage" data-link-paths=",/index.html,/">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="index.html">
+Home Page		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/tavole-preparatorie--progetti-.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="tavole-preparatorie--progetti-.html">
+Tavole preparatorie (progetti)		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">Prototipi</span><button type="button" class="screen-reader-only clear-button-style toggle-submenu" aria-label="Mostra sottomenù di Prototipi" aria-expanded="false" onclick="if ($(this).attr('aria-expanded') == 'true') event.stopImmediatePropagation(); $(this).closest('.imLevel').trigger(jQuery.Event($(this).attr('aria-expanded') == 'false' ? 'mouseenter' : 'mouseleave', { originalEvent: event } ));">▼</button></div></div><ul data-original-position="open-bottom" class="open-bottom" style="" >
+	<li class="imMnMnFirst imPage" data-link-paths=",/prototipi-in-cera-e-altri-materiali-1.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="prototipi-in-cera-e-altri-materiali-1.html">
+Prototipi in cera e altri materiali 1		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/prototipi-in-cera-e-altri-materiali-2.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="prototipi-in-cera-e-altri-materiali-2.html">
+Prototipi in cera e altri materiali 2		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/prototipi-in-cera-e-altri-materiali-3.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="prototipi-in-cera-e-altri-materiali-3.html">
+Prototipi in cera e altri materiali 3		</a>
+</div>
+</div>
+	</li></ul></li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">Formatura, progetti, ambientazioni</span><button type="button" class="screen-reader-only clear-button-style toggle-submenu" aria-label="Mostra sottomenù di Formatura, progetti, ambientazioni" aria-expanded="false" onclick="if ($(this).attr('aria-expanded') == 'true') event.stopImmediatePropagation(); $(this).closest('.imLevel').trigger(jQuery.Event($(this).attr('aria-expanded') == 'false' ? 'mouseenter' : 'mouseleave', { originalEvent: event } ));">▼</button></div></div><ul data-original-position="open-bottom" class="open-bottom" style="" >
+	<li class="imMnMnFirst imPage" data-link-paths="|/formatura,-progetti.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="formatura,-progetti.html">
+Formatura, progetti		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths="|/ambientazioni,-formatura,-progetti.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="ambientazioni,-formatura,-progetti.html">
+Ambientazioni, formatura, progetti		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/progetti.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="progetti.html">
+Progetti		</a>
+</div>
+</div>
+	</li></ul></li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">Avvisi studenti</span><button type="button" class="screen-reader-only clear-button-style toggle-submenu" aria-label="Mostra sottomenù di Avvisi studenti" aria-expanded="false" onclick="if ($(this).attr('aria-expanded') == 'true') event.stopImmediatePropagation(); $(this).closest('.imLevel').trigger(jQuery.Event($(this).attr('aria-expanded') == 'false' ? 'mouseenter' : 'mouseleave', { originalEvent: event } ));">▼</button></div></div><ul data-original-position="open-bottom" class="open-bottom" style="" >
+	<li class="imMnMnFirst imPage" data-link-paths="|/presentazione,-preiscrizione-e-iscrizione-ai-corsi.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="presentazione,-preiscrizione-e-iscrizione-ai-corsi.html">
+Presentazione, preiscrizione e iscrizione ai Corsi		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths="|/programma-di-linguaggi-plastici-per-le-arti-visive,-triennio-e-biennio.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="programma-di-linguaggi-plastici-per-le-arti-visive,-triennio-e-biennio.html">
+Programma di Linguaggi plastici per le arti visive, triennio e biennio		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths="|/programma-di-tecniche-plastiche-contemporanee,-triennio.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="programma-di-tecniche-plastiche-contemporanee,-triennio.html">
+Programma di Tecniche plastiche contemporanee, triennio		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths="|/programma-di-tecniche-plastiche-contemporanee,-biennio.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="programma-di-tecniche-plastiche-contemporanee,-biennio.html">
+Programma di Tecniche plastiche contemporanee, biennio		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths="|/corredo,-etichetta-cartella,-frontespizio-tesina.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="corredo,-etichetta-cartella,-frontespizio-tesina.html">
+Corredo, etichetta cartella, frontespizio tesina		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/redazione-tesi-ed-esempi-di-tesine-.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="redazione-tesi-ed-esempi-di-tesine-.html">
+Redazione Tesi ed esempi di tesine 		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/orario-delle-lezioni.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="orario-delle-lezioni.html">
+Orario delle lezioni		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/didattica-online.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="didattica-online.html">
+Didattica online		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/il-laboratorio-del-corso-di-plastica-ornamentale.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="il-laboratorio-del-corso-di-plastica-ornamentale.html">
+Il laboratorio del Corso di Plastica ornamentale		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/alcune-lettere-di-referenze.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="alcune-lettere-di-referenze.html">
+Alcune lettere di referenze		</a>
+</div>
+</div>
+	</li></ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/cenni-storici-.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="cenni-storici-.html">
+Cenni storici 		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/a-stefano.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="a-stefano.html">
+A Stefano		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/a-lisa.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="a-lisa.html">
+A Lisa		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/contatti.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="contatti.html">
+Contatti		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths="|/copyright,-privacy,-cookies-policy.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="copyright,-privacy,-cookies-policy.html">
+Copyright, privacy, cookies policy		</a>
+</div>
+</div>
+	</li></ul></nav></div><a id="imStickyBar_imMenuObject_01_after_menu" class="screen-reader-only-even-focused"></a><!-- UNSEARCHABLE END --><script>
+var imStickyBar_imMenuObject_01_settings = {
+	'menuId': 'imStickyBar_imMenuObject_01',
+	'responsiveMenuEffect': 'slide',
+	'responsiveMenuLevelOpenEvent': 'mouseover',
+	'animationDuration': 1000,
+}
+x5engine.boot.push(function(){x5engine.initMenu(imStickyBar_imMenuObject_01_settings)});
+$(function () {
+    $('#imStickyBar_imMenuObject_01_container ul li').not('.imMnMnSeparator').each(function () {
+        $(this).on('mouseenter', function (evt) {
+            if (!evt.originalEvent) {
+                evt.stopImmediatePropagation();
+                evt.preventDefault();
+                return;
+            }
+        });
+    });
+});
+$(function () {$('#imStickyBar_imMenuObject_01_container ul li').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0;    $this.on('mouseenter', function () {        if($(this).parents('#imStickyBar_imMenuObject_01_container-menu-opened').length > 0) return;         clearTimeout(timeout);        setTimeout(function () { $this.children('ul, .multiple-column').stop(false, false).fadeIn(); }, 250);    }).on('mouseleave', function () {        if($(this).parents('#imStickyBar_imMenuObject_01_container-menu-opened').length > 0) return;         timeout = setTimeout(function () { $this.children('ul, .multiple-column').stop(false, false).fadeOut(); }, 250);    });});});
+
+</script>
+</div><div id="imStickyBar_imTextObject_02_wrapper" class="template-object-wrapper"><div id="imStickyBar_imTextObject_02">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imStickyBar_imTextObject_02_tab0" style="opacity: 1; " role="tabpanel" tabindex="0">
+		<div class="text-inner">
+			<img class="image-0" src="images/hhhc3f.png"  width="1971" height="772" />
+		</div>
+	</div>
+
+</div>
+</div><div id="imStickyBar_imTextObject_03_wrapper" class="template-object-wrapper"><div id="imStickyBar_imTextObject_03">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imStickyBar_imTextObject_03_tab0" style="opacity: 1; " role="tabpanel" tabindex="0">
+		<div class="text-inner">
+			<div><span class="fs11lh1-5 cf1 ff1">AFAM112</span></div>
+		</div>
+	</div>
+
+</div>
+</div></div>
+						</div>
+					</div>
+					<div id="imSideBar">
+						<div id="imSideBarObjects"></div>
+					</div>
+					<div id="imContentGraphics"></div>
+					<main id="imContent">
+						<a id="imGoToCont"></a>
+						<div id="imSearchPage">
+						<h2 id="imPgTitle">Risultati della ricerca</h2>
+						<?php
+						$search = new imSearch();
+						$keys = isset($_GET['search']) ? @htmlspecialchars($_GET['search'], ENT_COMPAT) : "";
+						$page = isset($_GET['page']) ? @htmlspecialchars($_GET['page']) : 0;
+						$type = isset($_GET['type']) ? @htmlspecialchars($_GET['type']) : "pages"; ?>
+						<div class="searchPageContainer">
+						<?php echo $search->search($keys, $page, $type); ?>
+						</div>
+						</div>
+						
+					</main>
+					<div id="imFooterBg"></div>
+					<footer id="imFooter">
+						<div id="imFooterObjects"><div id="imFooter_imTextObject_17_wrapper" class="template-object-wrapper"><div id="imFooter_imTextObject_17">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imFooter_imTextObject_17_tab0" style="opacity: 1; " role="tabpanel" tabindex="0">
+		<div class="text-inner">
+			<div><span class="fs9lh1-5 ff1">Il presente sito è uno strumento informativo per gli iscritti ai Corsi del triennio e biennio, raccoglie una piccola parte </span></div><div><span class="fs9lh1-5 ff1">dell'attività didattica e di ricerca, intende valorizzare l'Istituzione di Stato e il settore universitario AFAM</span></div><div><div data-line-height="1" class="lh1"><span class="fs9lh1 ff1"><br></span></div><div data-line-height="1" class="lh1"><span class="fs9lh1 ff1">Per comunicazioni di natura didattica scrivere tramite l'email Istituzionale o la funzione contatti del menù</span></div><div><span class="fs9lh1-5 ff1">L'uso non autorizzato o improprio dei contenuti del sito è perseguito a termini di legge</span></div></div>
+		</div>
+	</div>
+
+</div>
+</div><div id="imFooter_imTextObject_18_wrapper" class="template-object-wrapper"><div id="imFooter_imTextObject_18">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imFooter_imTextObject_18_tab0" style="opacity: 1; " role="tabpanel" tabindex="0">
+		<div class="text-inner">
+			<div><span class="fs9lh1-5 ff1">Sito in RWD, HTML5 e 4K</span></div><div><span class="fs9lh1-5"><br></span></div>
+		</div>
+	</div>
+
+</div>
+</div><div id="imFooter_imTextObject_20_wrapper" class="template-object-wrapper"><div id="imFooter_imTextObject_20">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imFooter_imTextObject_20_tab0" style="opacity: 1; " role="tabpanel" tabindex="0">
+		<div class="text-inner">
+			<div data-line-height="1"><span class="fs9lh1-5 ff1"><b><span class="cf1">© Copyright Danilo Ciaramaglia</span></b><span class="cf1"> - tutti i diritti riservati/al rights reserved </span><span class="cf2"> </span><span class="cf3"><span><a href="copyright,-privacy,-cookies-policy.html" class="imCssLink" onclick="return x5engine.utils.location('copyright,-privacy,-cookies-policy.html', null, false)">Privacy / Cookies Policy</a></span></span></span><br></div>
+		</div>
+	</div>
+
+</div>
+</div><div id="imFooter_imTextObject_21_wrapper" class="template-object-wrapper"><div id="imFooter_imTextObject_21">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imFooter_imTextObject_21_tab0" style="opacity: 1; " role="tabpanel" tabindex="0">
+		<div class="text-inner">
+			<div data-line-height="1"><span class="fs9lh1-5 ff1"><b>© Copyright Danilo Ciaramaglia</b> -<span class="cf1"> </span><span class="cf1"><a href="copyright,-privacy,-cookies-policy.html" class="imCssLink" onclick="return x5engine.utils.location('copyright,-privacy,-cookies-policy.html', null, false)">Privacy / Cookies Policy</a></span></span><br></div>
+		</div>
+	</div>
+
+</div>
+</div><div id="imFooter_imTextObject_22_wrapper" class="template-object-wrapper"><div id="imFooter_imTextObject_22">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imFooter_imTextObject_22_tab0" style="opacity: 1; " role="tabpanel" tabindex="0">
+		<div class="text-inner">
+			<div><span class="fs8lh1-5 ff1"><span><a href="https://www.danilociaramaglia.netsons.org" class="imCssLink">Web designer Danilo Ciaramaglia</a></span></span></div>
+		</div>
+	</div>
+
+</div>
+</div><div id="imFooter_imTextObject_23_wrapper" class="template-object-wrapper"><div id="imFooter_imTextObject_23">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imFooter_imTextObject_23_tab0" style="opacity: 1; " role="tabpanel" tabindex="0">
+		<div class="text-inner">
+			<div><span class="fs10lh1-5 cf1 ff1">AREA 1 DIPARTIMENTO DI ARTI VISIVE<br></span></div><div><span class="fs10lh1-5 cf1 ff1">Scuola di Decorazione</span></div><div><span class="fs10lh1-5 cf1 ff1">Settore artistico-disciplinare (SAD)</span></div><div><span style="font-weight: 700;" class="fs10lh1-5 cf1 ff1">Linguaggi plastici per le arti visive</span></div><div><span class="fs10lh1-5 cf1 ff1">Profili disciplinari: </span></div><div><span style="font-weight: 700;" class="fs10lh1-5 ff1">Linguaggi plastici per le arti visive</span></div><div><span class="fs10lh1-5 ff1"><b>Tecniche plastiche contemporanee</b><br></span></div><div><span class="fs10lh1-5 cf1 ff1">Codice SAD: AFAM112<br></span></div><div><span class="fs10lh1-5 cf1 ff1"><br></span></div><div><span class="fs10lh1-5 ff1">Professore ordinario: Danilo Ciaramaglia</span></div>
+		</div>
+	</div>
+
+</div>
+</div><div id="imFooter_imTextObject_29_wrapper" class="template-object-wrapper"><div id="imFooter_imTextObject_29">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imFooter_imTextObject_29_tab0" style="opacity: 1; " role="tabpanel" tabindex="0">
+		<div class="text-inner">
+			<a href="presentazione,-preiscrizione-e-iscrizione-ai-corsi.html" target="_blank" class="imCssLink inline-block"><img class="image-1" src="images/teams.png"  width="312" height="102" /></a>
+		</div>
+	</div>
+
+</div>
+</div><div id="imFooter_imTextObject_33_wrapper" class="template-object-wrapper"><div id="imFooter_imTextObject_33">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imFooter_imTextObject_33_tab0" style="opacity: 1; " role="tabpanel" tabindex="0">
+		<div class="text-inner">
+			<div class="imTACenter"><span class="fs37lh1-5"><span class="cf1"> ABAVE ABAVE ABAVE ABAVE ABAVE ABAVE ABAVE ABAVE </span><span class="cf1">ABAVE </span></span></div>
+		</div>
+	</div>
+
+</div>
+</div><div id="imFooter_imTextObject_34_wrapper" class="template-object-wrapper"><div id="imFooter_imTextObject_34">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imFooter_imTextObject_34_tab0" style="opacity: 1; " role="tabpanel" tabindex="0">
+		<div class="text-inner">
+			<div class="imTACenter"><span class="fs28lh1-5 cf1">ABAVE ABAVE ABAVE ABAVE ABAVE ABAVE ABAVE ABAVE </span><span class="fs28lh1-5 cf1">ABAVE </span><span class="fs28lh1-5 cf1">ABAVE </span><span class="fs28lh1-5 cf1">ABAVE </span><span class="fs28lh1-5 cf1">ABAVE </span></div>
+		</div>
+	</div>
+
+</div>
+</div><div id="imFooter_pluginAppObj_35_wrapper" class="template-object-wrapper"><!-- Google Translate v.9 --><div id="imFooter_pluginAppObj_35">
+
+      <div id="google_translate_element"></div>
+
+      <script>
+         function googleTranslateElementInit() {
+           new google.translate.TranslateElement({
+             pageLanguage: 'auto',
+             autoDisplay: false,
+             layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+           }, 'google_translate_element');
+         }
+
+ x5engine.boot.push(function(){
+         function changeGoogleStyles_imFooter_pluginAppObj_35() {
+            if(($goog = $('.goog-te-menu-frame').contents().find('head')).length) {
+               var stylesHtml = '<style>.goog-te-menu2 { max-width: 100% !important; overflow: scroll !important; box-sizing:border-box !important; height:auto !important; }</style>';
+               if($goog.html().indexOf(stylesHtml) == -1){
+                  $goog.append(stylesHtml);
+               }
+               $("#gt-style").empty().append(".goog-te-menu-frame{width: " + $("#imPage").width() + "px !important;}");
+            } else {
+               setTimeout(changeGoogleStyles_imFooter_pluginAppObj_35, 200);
+            }
+         }
+         changeGoogleStyles_imFooter_pluginAppObj_35();
+       
+         		var imFooter_pluginAppObj_35_resizeTo = null,
+		imFooter_pluginAppObj_35_width = 0;
+		x5engine.utils.onElementResize(document.getElementById('imFooter_pluginAppObj_35'), function (rect, target) {
+			if (imFooter_pluginAppObj_35_width == rect.width) {
+				return;
+			}
+			imFooter_pluginAppObj_35_width = rect.width;
+			if (!!imFooter_pluginAppObj_35_resizeTo) {
+				clearTimeout(imFooter_pluginAppObj_35_resizeTo);
+			}
+			imFooter_pluginAppObj_35_resizeTo = setTimeout(function() {
+	changeGoogleStyles_imFooter_pluginAppObj_35();
+			}, 50);
+		});
+
+       
+         $(window).on('resize', function(){
+            changeGoogleStyles_imFooter_pluginAppObj_35();
+         });
+});
+      </script>
+      <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+   </div></div><div id="imFooter_imObjectImage_36_wrapper" class="template-object-wrapper"><div id="imFooter_imObjectImage_36"><div id="imFooter_imObjectImage_36_container"><img src="images/vfd3p--1-.svg"  width="2000" height="2457" /></div></div></div><div id="imFooter_imObjectImage_37_wrapper" class="template-object-wrapper"><div id="imFooter_imObjectImage_37"><div id="imFooter_imObjectImage_37_container"><img src="images/logo5.svg"  width="512" height="512" /></div></div></div><div id="imFooter_imObjectImage_38_wrapper" class="template-object-wrapper"><div id="imFooter_imObjectImage_38"><div id="imFooter_imObjectImage_38_container"><img src="images/vfd3W.svg"  width="1508" height="1500" /></div></div></div></div>
+					</footer>
+				</div>
+				<span class="screen-reader-only-even-focused" style="bottom: 0;"><a href="#imGoToCont" title="Rileggi i contenuti della pagina">Torna ai contenuti</a></span>
+			</div>
+		</div>
+		
+		<noscript class="imNoScript"><div class="alert alert-red">Per poter utilizzare questo sito è necessario attivare JavaScript.</div></noscript>
+	</body>
+</html>
