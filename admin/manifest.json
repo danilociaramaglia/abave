@@ -1,0 +1,11 @@
+{
+	"name": "Abave Admin",
+	"start_url": "https://danilociaramaglia.github.io/abave/admin/",
+	"display": "standalone",
+	"background_color": "#E5E5E5",
+	"theme_color": "#F28D4F",
+	"scope": "https://danilociaramaglia.github.io/abave/admin/",
+	"icons": [
+		{ "src": "https://danilociaramaglia.github.io/abave/admin/images/logo_g4uxnljv.png", "type": "image/png", "sizes": "126x126" }
+	]
+}

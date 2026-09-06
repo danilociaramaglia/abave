@@ -1,0 +1,38 @@
+#pluginAppObj_22_11 .post { 
+    max-height: 350px;
+    overflow: auto;
+}
+
+@media (max-width: 699.9px) { #pluginAppObj_22_11 .post {overflow: visible; }}
+
+    #pluginAppObj_22_11 .post_title {
+	display: block;
+	font-family: 'Tahoma';
+	font-size: calc(12pt - max(12pt - var(--min-text-size), 0pt) * var(--font-size-factor)) ;
+	text-align: left;
+	color: rgba(0, 0, 0, 1);
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	margin-bottom: 5px;
+}
+
+#pluginAppObj_22_11 .post_body {
+	font-family: 'Tahoma';
+	font-size: calc(10pt - max(10pt - var(--min-text-size), 0pt) * var(--font-size-factor)) ;
+	text-align: left;
+	color: rgba(0, 0, 0, 1);
+	font-style: normal;
+	font-weight: normal;
+	margin-bottom: 5px;
+}
+
+#pluginAppObj_22_11 .post_data {
+	font-size: calc(9pt - max(9pt - var(--min-text-size), 0pt) * var(--font-size-factor));
+	font-family: 'Tahoma';
+	text-align: left;
+	color: rgba(0, 0, 0, 1);
+	font-style: normal;
+	font-weight: normal;
+	margin-bottom: 8px;
+}
