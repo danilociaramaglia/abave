@@ -1,0 +1,34 @@
+
+#pluginAppObj_22_11 {
+	width: 100%;
+}
+#pluginAppObj_22_11 .cd-headline {
+	display: block;
+	font-family: 'Tahoma';
+	font-size: calc(18px - max(18px - var(--min-text-size), 0pt) * var(--font-size-factor)) ;
+	line-height: 1;
+	color: rgba(0, 48, 191, 1);
+	font-style: normal;
+	font-weight: normal;
+}
+
+#pluginAppObj_22_11 .cd-headline b,
+#pluginAppObj_22_11 .cd-headline i,
+#pluginAppObj_22_11 .cd-headline em {
+	
+	font-family: 'Tahoma';
+	font-size: calc(18px - max(18px - var(--min-text-size), 0pt) * var(--font-size-factor)) ;
+	line-height: 1;
+	color: rgba(0, 48, 191, 1);
+	font-style: normal !important;
+	font-weight: normal;
+}
+
+/* Loading bar color */
+#pluginAppObj_22_11 .cd-headline.loading-bar .cd-words-wrapper::after {
+	background-color: rgba(0, 48, 191, 1);
+}
+
+#pluginAppObj_22_11 .cd-intro {
+	text-align: center; ;
+}
